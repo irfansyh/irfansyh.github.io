@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Budak Lembur
+description: Tempat menyimpan hasil googling, mungkin lain kali bisa berguna kembali.
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://irfansyh.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,13 +20,13 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
+  github: irfansyh
   twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  facebook: presiden.irfans
+  email: irfans.putra15@gmail.com
   linkedin: brianmaierjr
 
 google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: my-disqus-shortname
+    shortname: budaklembur

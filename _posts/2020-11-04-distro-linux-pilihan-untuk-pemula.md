@@ -11,7 +11,7 @@ Daftar ini saya buat berdasarkan pengalaman pribadi berganti-ganti distro. berik
 
 ### Linux Mint
 
-<img src="{{ '/assets/img/distro-linux/mint.png' | prepend: site.baseurl }}" alt="Linux Mint" width="75%" height="auto">
+<img src="{{ '/assets/img/distro-linux/mint.png' | prepend: site.baseurl }}" alt="Linux Mint" width="85%" height="auto">
 
 Pilihan pertama saya jatuh ke linux mint, distro dengan tampilan yang lembur dengan layout yang mirip dengan windows 7 adalah alasan mengapa linux mint ini sangat direkomendasikan untuk sobat yang baru pindah dari windows.
 
@@ -31,7 +31,7 @@ Saat postingan ini dibuat, Linux Mint sudah menginjak versi 20 dengan kode nama 
 
 ### Elementary OS
 
-<img src="{{ '/assets/img/distro-linux/elementary.png' | prepend: site.baseurl }}" alt="Elementary OS" width="75%" height="auto">
+<img src="{{ '/assets/img/distro-linux/elementary.png' | prepend: site.baseurl }}" alt="Elementary OS" width="85%" height="auto">
 
 Distro linux ini menggunakan destop sendiri bernama Patheon DE. Distro ini sangat mirip dengan MacOs, tampilannya bersih serta elegan. Bagi sobat pengguna MacOs sangat saya sarankan untuk mencoba distro ini, sistem stabil jarang ditemukan lag walaupun buka banyak aplikasi sekaligus.
 
@@ -39,7 +39,7 @@ Saat postingan ini dibuat, Elementary Os sudah menginjak versi 5.1 dengan kode n
 
 ### Ubuntu
 
-<img src="{{ '/assets/img/distro-linux/ubuntu.jpg' | prepend: site.baseurl }}" alt="Ubuntu" width="75%" height="auto">
+<img src="{{ '/assets/img/distro-linux/ubuntu.jpg' | prepend: site.baseurl }}" alt="Ubuntu" width="85%" height="auto">
 
 Mungkin sobat pernah mendengar kata ubuntu? ya, ubuntu adalah distro paling populer, distro dengan desktop GNOME ini adalah pilihan saya selanjutnya, alasannya karena tampilannya yang keren, fitur sangat lengkap, serta komunitas yang besar, jadi sangat mudah bertanya apabila ada kendala pada saat penggunaan. 
 
@@ -49,7 +49,7 @@ Saat postingan ini dibuat, Ubuntu sudah menginjak versi 20.04 LTS yang mendapat 
 
 ### Zorin OS
 
-<img src="{{ '/assets/img/distro-linux/zorinos.jpg' | prepend: site.baseurl }}" alt="Zorin OS" width="75%" height="auto">
+<img src="{{ '/assets/img/distro-linux/zorinos.jpg' | prepend: site.baseurl }}" alt="Zorin OS" width="85%" height="auto">
 
 Yang terakhir adalah Zorin OS, distro ini menggunakan desktop GNOME yang layoutnya dimodifikasi semirip mungkin dengan windows 7, jadi sobat pasti langsung bisa mengoperasikannya. Tampilannya sangat bersih dan elegant, serta stabil saat penggunaan.
 

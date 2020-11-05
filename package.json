@@ -1,12 +1,12 @@
 {
-  "name": "long-haul",
+  "name": "Budak Lembur",
   "version": "0.0.0",
-  "description": "A minimal, type-focused Jekyll theme. ",
+  "description": "Tempat menyimpan Hasil googling",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brian Maier Jr.",
+  "author": "Ifan Irfansyah",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.3",

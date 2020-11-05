@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: Tentang Ifan Irfansyah
 ---
 
 <div class="post">

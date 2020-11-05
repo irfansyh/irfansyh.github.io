@@ -4,13 +4,13 @@ title: Contact Long Haul
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h1 class="pageTitle">Hubungi Saya</h1>
   <div class="contactContent">
-    <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:brimaidesigns@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
+    <p class="intro">Assalamu'alaikum,<br>
+    Halo sahabat dimanapun berada.</p>
+    <p>Jika ada pertanyaan, bisa menghubungi saya melalui <a href="mailto:irfans.putra15@gmail.com">Email</a> atau <a href="http://wa.me/6283820866559">Whatsapp</a>.</p>
   </div>
-  <form action="http://formspree.io/your@mail.com" method="POST">
+  <form action="https://formspree.io/f/xrgokjzk" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>

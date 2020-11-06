@@ -20,7 +20,9 @@ Caranya sangat mudah, sobat hanya perlu menginstall Synaptics Touchpad driver, l
 1. Buka terminal,
 2. Ketikan kode berikut:
 
-```sudo apt-get install xserver-xorg-input-synaptics```
+{% highlight bash %}
+sudo apt-get install xserver-xorg-input-synaptics
+{% endhighlight %}
 
 3. Reboot laptopmu.
 

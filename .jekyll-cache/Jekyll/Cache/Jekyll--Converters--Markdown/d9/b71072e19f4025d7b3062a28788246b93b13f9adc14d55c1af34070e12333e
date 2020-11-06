@@ -1,11 +1,6 @@
----
-layout: default
-title: Tentang Ifan Irfansyah
----
-
-<div class="post">
+I"'<div class="post">
 	<h1 class="pageTitle">Tentang Ifan Irfansyah</h1>
-	<img src="{{ '/assets/img/saya.jpeg' | prepend: site.baseurl }}" alt="">
+	<img src="/assets/img/saya.jpeg" alt="" />
 	<p class="intro">Introvert yang sedang mencari arti dari kehidupan.</p>
 	<p>Assalamu'alaikum</p>
 	<p>Halo sobat, nama saya Ifan Irfansyah, lahir di kabupaten Tanggamus Lampung pada tahun 1998. Saat ini tinggal di kabupaten Bandung Barat.</p>
@@ -20,3 +15,6 @@ title: Tentang Ifan Irfansyah
 
 <p>Wassalamu'alaikum warrohmatullohi wabarokatuh.<p>
 
+&lt;/div&gt;
+</p></p></div>
+:ET

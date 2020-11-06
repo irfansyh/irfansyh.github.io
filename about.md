@@ -4,21 +4,20 @@ title: Tentang Ifan Irfansyah
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+	<h1 class="pageTitle">Tentang Ifan Irfansyah</h1>
+	<img src="{{ '/assets/img/saya.jpeg' | prepend: site.baseurl }}" alt="">
+	<p class="intro">Introvert yang sedang mencari arti dari kehidupan.</p>
+	<p>Assalamu'alaikum</p>
+	<p>Halo sobat, nama saya Ifan Irfansyah, lahir di kabupaten Tanggamus Lampung pada tahun 1998. Saat ini tinggal di kabupaten Bandung Barat.</p>
+	
+Dari tahun 2012-an saya sudah mulai tertarik pada dunia blog, awalnya menulis di ``Mywapblog`` yang saat ini sudah tutup, kemudian membuat kembali di [Blogger](http://blogger.com). Sempat vakum beberapa tahun, dipenghujung tahun 2020 ini saya membuat blog kembali menggunakan [Jekyll](http://jekyllrb.com) di [Github](http://github.com), menggunakan template gratis [Long haul](https://github.com/brianmaierjr/long-haul).
+
+Karena saya suka mencoba dan mempelajari hal baru secara otodidak, tentu saya harus googling sana-sini untuk mencari tutorial sesuatu yang saya pelajari tersebut. Nah, Blog ini saya buat untuk menyimpan hasil googling yang saya lakukan agar suatu waktu jika dibutuhkan kembali, tidak perlu googling lagi, tinggal cari saja di blog ini, tentunya dengan gaya tulisan saya.
+
+Semoga artikel yang saya tulis di blog ini bisa bermanfaat khususnya untuk saya sendiri, umumnya untuk sobat semua yang sudah nyasar ke blog ini.
+
+Akhir kata, semoga kita selalu sehat wal afiat, apa yang kita inginkan bisa terlaksana sebagaimana yang diharapkan.
+
+Wassalamu'alaikum warrohmatullohi wabarokatuh.
+
 </div>

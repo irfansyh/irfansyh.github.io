@@ -1,0 +1,33 @@
+I"v<p>Inkscape adalah aplikasi andalan untuk membuat desain jenis vector seperti adobe illustrator dan coreldraw, namun inkscape ini gratis dan open source  Tidak seperti adobe dan corel, inkscape ini tersedia untuk lintas platform, inkscape bisa diinstall di Linux, Windows, maupun Mac OS.</p>
+
+<p><img src="/assets/img/distro-linux/inkscape-ss.png" alt="Inkscape Screenshot" /></p>
+
+<p>Inkscape dikembangkan oleh The Inkscape Team yang dirilis perdana pada 2 November 2003, dibawah lisensi GNU-GPL yang menggunakan file berformat svg.</p>
+
+<p>Saya biasa menggunakan inkscape untuk membuat logo, banner, flyer, desain baju, id card, dll.</p>
+
+<p>Untuk menginstall inkscape di linux khususnya ubuntu, debian, dan turunannya, dapat menggunakan 4 cara, yaitu:</p>
+
+<ol>
+  <li>Melalui repository</li>
+  <li>Melalui Snap</li>
+  <li>Melalui Flatpak</li>
+  <li>Melalui Appimage (portable)</li>
+</ol>
+
+<p>Namun yang akan saya bagikan disini hanya yang melalui repository, selain lebih ringan aplikasinya karena ukuran lebih kecil hanya 110 Mib-an, juga cara ini paling umum dilakukan.
+Berikut ini caranya:</p>
+
+<p>Buka terminal sobat, dan ketikan:</p>
+
+<p>$ sudo add-apt-repository ppa:inkscape.dev/stable````
+<code class="language-plaintext highlighter-rouge">$ sudo apt-get update</code>
+<code class="language-plaintext highlighter-rouge">$ sudo apt install -y inkscape</code></p>
+
+<p>Tunggu sampai proses selesai, dan inkscape pun siap dipakai, untuk membukanya bisa ketikan perintah</p>
+
+<p><code class="language-plaintext highlighter-rouge">$ inkscape</code></p>
+
+<p>Mungkin hanya itu yang bisa saya tulis pada kesempatan kali ini, semoga bermanfaat ^_^</p>
+
+:ET
